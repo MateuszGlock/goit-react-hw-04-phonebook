@@ -1,0 +1,1 @@
+.form{display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;padding:1rem;gap:.75rem;font-size:1.5rem;border:1px gray solid;border-radius:1rem;width:auto}input,button{font-size:inherit}.list{font-size:1.5rem}.filter-input{margin-left:10px}.delete-button{margin-left:10px}
